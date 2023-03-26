@@ -1,7 +1,7 @@
 # review
 I only created one store in facebook: https://www.facebook.com/people/Store-1/100091278542317/?sk=reviews, the pageID is: 117623211277081
 
-Get review http://localhost:5005/review/<int:pageID> [GET]. Dont need any json input. 
+Get review http://localhost:5005/review/"int:pageID" [GET]. Dont need any json input. 
 
 Sample output:
 {
